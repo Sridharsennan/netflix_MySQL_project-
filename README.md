@@ -1,4 +1,5 @@
 # netflix_MySQL_project-
+![image alt](https://github.com/Sridharsennan/netflix_MySQL_project-/blob/e76cddfe61b489c1ea47e516bda9871dbc31d131/logo.png)
 
 **Overview**
 -----------------------------------------------------------------------------
